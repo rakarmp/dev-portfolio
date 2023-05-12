@@ -3,9 +3,9 @@ module.exports = {
   darkMode: "class",
   theme: {
     extend: {
-      // fontFamily: {
-      //   inter: ["inter", "italic"],
-      // },
+      fontFamily: {
+        sans: ["Montserrat", "sans-serif"],
+      },
     },
   },
   plugins: [],
