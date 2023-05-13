@@ -11,4 +11,10 @@ export default [
     stack: ["Issued By Dicoding"],
     link: "https://raw.githubusercontent.com/rakarmp/dev-portfolio/master/public/assets/certificate/dicoding.png",
   },
+  {
+    title: "Javascript Project",
+    imgUrl: "/assets/certificate/great-learning-js.jpg",
+    stack: ["Issued By Great Learning"],
+    link: "https://raw.githubusercontent.com/rakarmp/dev-portfolio/master/public/assets/certificate/great-learning-js.jpg",
+  },
 ];
