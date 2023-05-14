@@ -8,14 +8,11 @@ function Intro() {
       </h1>
       <p className="text-base md:text-xl mb-3 font-medium">Web Developer</p>
       <p className="text-sm max-w-xl mb-6 font-bold">
-        Saya adalah seorang junior web developer fresh graduate yang memiliki
-        semangat tinggi untuk terus belajar dan berkembang di bidang
-        pengembangan web. Saya sangat tekun dan tepat waktu dalam menyelesaikan
-        proyek yang saya kerjakan.
-        <br />
-        Saya sering mengasah skill saya dari tutorial Youtube dan media lainnya,
-        Dan juga saya sudah terbiasa dengan Git untuk version control dalam
-        mengerjakan suatu project.
+        I am a junior web developer fresh graduate who has High enthusiasm to
+        continue learning and developing in the field web development. I am very
+        diligent and on time in finishing the project I'm working on.
+        <br />I often hone my skills from YouTube tutorials and other media, And
+        also I'm used to Git for version control in working on a project.
       </p>
     </div>
   );
